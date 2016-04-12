@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅注疏
-#+DATE: 2016-04-12 14:30:27.625041
+#+DATE: 2016-04-12 14:30:28.316155
 #+PROPERTY: ID KR1j0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 16
 <pb:KR1j0004_WYG_016-1a>¶
 　　爾雅注疏卷八考證¶
@@ -127,7 +127,7 @@
 <pb:KR1j0004_WYG_016-5b>¶
 　　蘄茝蘪蕪○陸本蘪作糜¶
 ¶
-　　蔨鹿&KR1218;其實莥注蔓延生○陸本鹿作蔍延作莚莥一¶
+　　蔨鹿靃其實莥注蔓延生○陸本鹿作蔍延作莚莥一¶
 作□又作□¶
 ¶
 　　薃侯莎其實媞○鄭樵曰或云即香附子其根生塊似¶

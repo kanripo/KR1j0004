@@ -1,16 +1,16 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅注疏
-#+DATE: 2016-04-12 14:30:27.739914
+#+DATE: 2016-04-12 14:30:28.417338
 #+PROPERTY: ID KR1j0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 20
 <pb:KR1j0004_WYG_020-1a>¶
 　　爾雅注疏卷十考證¶
 ¶
 　　釋魚第十六¶
 ¶
-　　鰋注今鰋額白魚○陸本額作&KR0725;¶
+　　鰋注今鰋額白魚○陸本額作額¶
 ¶
 　　鱧○鄭樵曰今只謂之鱧多在泥水中服食家忌食¶
 鱀是鱁注鱀䱜屬胎生健啖細魚○陸本䱜作□啖作¶
